@@ -332,7 +332,7 @@ public class ImageScrollView extends HorizontalScrollView {
     }
 
     /**
-     * 业务需求：将图片除白色以外的区域变成透明
+     * 业务需求：将滚动图片除白色以外的区域变成透明
      *
      * @param bitmap
      * @return
