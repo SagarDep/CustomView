@@ -18,7 +18,7 @@ public class AutoScrollTextView extends TextView implements OnClickListener
 {
 	public final static String TAG = AutoScrollTextView.class.getSimpleName();
 
-	private float textLength = 0f;// 文本长度
+	private float textLength = 0f;// 文本长度from Linux
 	private float viewWidth = 0f;
 	private float step = 0f;// 文字的横坐标
 	private float y = 0f;// 文字的纵坐标
